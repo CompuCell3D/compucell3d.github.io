@@ -2,8 +2,8 @@ title: CompuCell3D
 description: Multiscale modeling framework
 theme: minima
 
-#url: https://compucell3d.org
-#baseurl: ""
+url: https://compucell3d.org
+baseurl: ""
 
 plugins:
   - jekyll-feed
