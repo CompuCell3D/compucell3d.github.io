@@ -16,6 +16,7 @@ nav:
   - Home: index.md
   - Installation: installation.md
   - Tutorials: tutorials.md
+  - Publications: publications.md
   - Releases:
       - 4.8.0: releases/4.8.0.md
 
