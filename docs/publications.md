@@ -10,8 +10,9 @@ For list of Ph.D. and Master theses completed using CC3D please see [[Theses|her
 
 #### 2026
 
- 1. [A model of tuberculosis progression using CompuCell3D](https://arxiv.org/abs/2602.24258). J. W. G. Doran, C. F. Rowlatt, G. G. Powathil, R. Bowness and C. A. Yates, 2026, arXiv, https://arxiv.org/abs/2602.24258.
+ 1. [Injury-specific muscle regeneration: a computational blueprint for cellular and cytokine drivers](https://royalsocietypublishing.org/rsif/article/23/236/20250534/480653/Injury-specific-muscle-regeneration-a). Haase, Megan, Tien Comlekoglu, Alexa Petrucciani, T. J. Sego, Shayn Peirce, and Silvia Blemker. Journal of The Royal Society Interface 23, no. 236 (2026).
 
+ 1. [A model of tuberculosis progression using CompuCell3D](https://arxiv.org/abs/2602.24258). J. W. G. Doran, C. F. Rowlatt, G. G. Powathil, R. Bowness and C. A. Yates, 2026, arXiv, https://arxiv.org/abs/2602.24258.
 
  1. [Start small: A model for tissue-wide planar cell polarity without morphogens](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013938).Thayambath, Abhisha, and Julio M. Belmonte. PLOS Computational Biology 22, no. 2 (2026): e1013938.  
 
@@ -19,13 +20,15 @@ For list of Ph.D. and Master theses completed using CC3D please see [[Theses|her
 
  1. [Glycation‐Driven Impairment of Cytoskeletal Homeostasis and Viability Disables Glyoxalase‐Low Mesothelia From Resisting Cancer Colonization](https://onlinelibrary.wiley.com/doi/10.1002/jcp.70123). Mishra, Satyarthi, Kottpalli Vidhipriya, Anchita Gopikrishnan, Purba Sarkar, Sudiksha Mishra, Chigicherla VS Prasanna, P. S. Hari, Aruna Korlimarla, Prosenjit Sen, and Ramray Bhat. Journal of Cellular Physiology 241, no. 1 (2026): e70123.   
 
- 1. [Polyclonal and single clonal patient-derived organoid models of Barrett oesophagus and oesophageal adenocarcinoma establish a platform for the analysis of heterogeneity in disease progression and therapy response](https://www.biorxiv.org/content/10.64898/2026.01.09.698383v2.full.pdf+html). Jacobson, Daniel H., Dylan P. !McClurg, Emily Black, Charlotte Cassie, Tik Shing Cheung, Hannah Coles, Ginny Devonshire et al. bioRxiv (2026): 2026-01. 
+ 1. [Polyclonal and single clonal patient-derived organoid models of Barrett oesophagus and oesophageal adenocarcinoma establish a platform for the analysis of heterogeneity in disease progression and therapy response](https://www.biorxiv.org/content/10.64898/2026.01.09.698383v2.full.pdf+html). Jacobson, Daniel H., Dylan P. McClurg, Emily Black, Charlotte Cassie, Tik Shing Cheung, Hannah Coles, Ginny Devonshire et al. bioRxiv (2026): 2026-01. 
 
  1. [Cortical tension links curvature to tissue growth in the cellular Potts model](https://link.aps.org/pdf/10.1103/z152-x4l1). Fastabend, Kai Lennard, Cécile M. Bidan, John WC Dunlop, and Philip Kollmannsberger.  Physical Review E 113, no. 2 (2026): 024403.
 
  1. [A Multiscale Computational Model of Endothelial-Immune Cell Interactions Regulated by Dynamic Wall Shear Stress](https://www.researchgate.net/publication/399667742_A_Multiscale_Computational_Model_of_Endothelial-Immune_Cell_Interactions_Regulated_by_Dynamic_Wall_Shear_Stress).Zhang YY, Wang YT, Li YJ, Qiu Y, Chen D, Qin KR. Int J Numer Method Biomed Eng. 2026 Jan;42(1):e70137. doi: 10.1002/cnm.70137. PMID: 41521423.
 
 #### 2025
+
+ 1. [Generative diffusion model surrogates for mechanistic agent-based biological models.](https://iopscience.iop.org/article/10.1088/2632-2153/ae11f8). Comlekoglu, Tien, J. Quetzalcoatl Toledo-Marín, Douglas W. DeSimone, Shayn M. Peirce, Geoffrey Fox, and James A. Glazier. Machine Learning: Science and Technology 6, no. 4 (2025): 045024.
 
  1. [V-Cornea: A computational model of corneal epithelium homeostasis, injury, and recovery](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013410). J Vanin, M Getz, C Mahony, TB Knudsen, JA Glazier. PLoS Comput Biol. 2025 Dec 26;21(12):e1013410. doi: 10.1371/journal.pcbi.1013410. PMID: 41452902; PMCID: PMC12768419.
 
@@ -35,7 +38,7 @@ For list of Ph.D. and Master theses completed using CC3D please see [[Theses|her
 
  1. [Protrusion force and cell-cell adhesion-induced polarity alignment govern collective migration modes](https://www.cell.com/biophysj/abstract/S0006-3495(25)00237-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0006349525002371%3Fshowall%3Dtrue) Wang H, Ardila C, Jindal A, Aggarwal V, Wang W, Vande Geest J, Jiang Y, Xing J, Sant S. Biophys J. 2025 May 20;124(10):1674-1692. doi: 10.1016/j.bpj.2025.04.010. Epub 2025 Apr 14. PMID: 40235119; PMCID: PMC12256861.
 
- 1. [Surrogate modeling of Cellular-Potts Agent-Based Models as a segmentation task using the U-Net neural network architecture](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013626) Tien Comlekoglu, J. Quetzalcóatl Toledo-Marín, Tina Comlekoglu, Douglas W. !DeSimone, Shayn M. Peirce, Geoffrey Fox, and James A. Glazier. PLOS Computational Biology 21, no. 11 (2025): e1013626.
+ 1. [Surrogate modeling of Cellular-Potts Agent-Based Models as a segmentation task using the U-Net neural network architecture](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013626) Tien Comlekoglu, J. Quetzalcóatl Toledo-Marín, Tina Comlekoglu, Douglas W. DeSimone, Shayn M. Peirce, Geoffrey Fox, and James A. Glazier. PLOS Computational Biology 21, no. 11 (2025): e1013626.
 
  1. [Rheological transition driven by matrix makes cancer spheroids resilient under confinement](https://www.life-science-alliance.org/content/8/6/e202402601) Tavishi Dutt, Jimpi Langthasa, Monica Umesh, Satyarthi Mishra, Siddharth Bothra, Kottpalli Vidhipriya, Annapurna Vadaparty, Prosenjit Sen, Ramray Bhat. Life Science Alliance Mar 2025, 8 (6) e202402601; DOI: 10.26508/lsa.202402601 
 
@@ -55,7 +58,7 @@ For list of Ph.D. and Master theses completed using CC3D please see [[Theses|her
 
  1. [Adhesion-driven invasion: disentangling the interplay between cell-cell and cell-matrix interactions in cancer cell migration](https://www.biorxiv.org/content/10.1101/2025.06.23.660988v1). QJS Braat, K Beslmüller, C Storm, EHJ Danen. bioRxiv, 2025, doi.org/10.1101/2025.06.23.660988 
 
- 1. [Preclinical Investigation of Resveratrol and CAR-Macrophage Synergy for IDH1-Mutant Glioblastoma: An AI-Driven, Multi-Scale Modelling Rationale and Protocol](https://sciety.org/articles/activity/10.31219/osf.io/eyaf2_v1). A !McNab. OSFPreprints, 2025. https://doi.org/10.31219/osf.io/eyaf2_v1 
+ 1. [Preclinical Investigation of Resveratrol and CAR-Macrophage Synergy for IDH1-Mutant Glioblastoma: An AI-Driven, Multi-Scale Modelling Rationale and Protocol](https://sciety.org/articles/activity/10.31219/osf.io/eyaf2_v1). A Nab. OSFPreprints, 2025. https://doi.org/10.31219/osf.io/eyaf2_v1 
 
  1. [Signaling and Mechanics influence the number and size of epithelial rosettes in the migrating zebrafish Posterior Lateral Line primordium](https://www.biorxiv.org/content/10.1101/2025.05.17.650326v1). A Mukherjee, M Hilzendeger, A Rinvelt, S Fatma. 2025 May 19:2025.05.17.650326. doi: 10.1101/2025.05.17.650326. PMID: 40568170; PMCID: PMC12190344.
 
@@ -78,6 +81,8 @@ For list of Ph.D. and Master theses completed using CC3D please see [[Theses|her
 
 #### 2024
 
+ 1. [Agent-based model demonstrates the impact of nonlinear, complex interactions between cytokines on muscle regeneration](https://elifesciences.org/articles/91924). Haase, Megan, Tien Comlekoglu, Alexa Petrucciani, Shayn M. Peirce, and Silvia S. Blemker. Elife 13 (2024): RP91924.
+
  1. [Tumor growth and vascular redistribution contributes to the dosimetric preferential effect of microbeam radiotherapy: a Monte Carlo study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11535247/). Ortiz R, Ramos-Méndez J. Sci Rep. 2024 Nov 4;14(1):26585. doi: 10.1038/s41598-024-77415-5. PMID: 39496724; PMCID: PMC11535247.
 
  1. [A clustering tool for generating biological geometries for computational modeling in radiobiology](https://iopscience.iop.org/article/10.1088/1361-6560/ad7f1d/meta). Ortiz R, Ramos-Méndez J. Phys Med Biol. 2024 Oct 11;69(21):10.1088/1361-6560/ad7f1d. doi: 10.1088/1361-6560/ad7f1d. PMID: 39317231; PMCID: PMC11563033.
@@ -90,7 +95,7 @@ For list of Ph.D. and Master theses completed using CC3D please see [[Theses|her
 
  1. [TOPAS-Tissue: A Framework for the Simulation of the Biological Response to Ionizing Radiation at the Multi-Cellular Level](https://www.mdpi.com/1422-0067/25/18/10061). García García, O.R., Ortiz, R., Moreno-Barbosa, E., D-Kondo, N., Faddegon, B. and Ramos-Méndez, J., 2024.  International Journal of Molecular Sciences, 25(18), p.10061. PMID: 39337547 PMCID: PMC11431975 DOI: 10.3390/ijms251810061 
 
- 1. [Multicell modeling of the skeletal muscle microenvironment to explore age-related changes in satellite cell dynamics](https://www.cell.com/biophysj/abstract/S0006-3495(23)02431-1). Khuu, S., and !McCulloch, A. D. (2024). Multicell modeling of the skeletal muscle microenvironment to explore age-related changes in satellite cell dynamics. Biophysical Journal, 123(3), 278a.
+ 1. [Multicell modeling of the skeletal muscle microenvironment to explore age-related changes in satellite cell dynamics](https://www.cell.com/biophysj/abstract/S0006-3495(23)02431-1). Khuu, S., and McCulloch, A. D. (2024). Multicell modeling of the skeletal muscle microenvironment to explore age-related changes in satellite cell dynamics. Biophysical Journal, 123(3), 278a.
 
  1. [Bidirectionally validated in silico and in vitro formation of specific depth zone-derived chondrocyte spheroids and clusters](https://www.frontiersin.org/journals/bioengineering-and-biotechnology/articles/10.3389/fbioe.2024.1440434/full?utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field&journalName=Frontiers_in_Bioengineering_and_Biotechnology&id=1440434). Eiichiro Takada, Hayato L. Mizuno, Yoshiki Takeoka Shuichi Mizuno. Front. Bioeng. Biotechnol., 05 September 2024. Sec. Organoids and Organ-On-A-Chip, Volume 12 - 2024. [doi.org/10.3389/fbioe.2024.1440434](https://doi.org/10.3389/fbioe.2024.1440434)  
 
@@ -115,7 +120,7 @@ For list of Ph.D. and Master theses completed using CC3D please see [[Theses|her
 
  1. [An in silico modeling approach to understanding the dynamics of the post-burn immune response](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2024.1303776/full#supplementary-material). Korkmaz HI, Sheraton VM, Bumbuc RV, Li M, Pijpe A, Mulder PPG, Boekema BKHL, de Jong E, Papendorp SGF, Brands R, Middelkoop E, Sloot PMA, van Zuijlen PPM. Front Immunol. 2024 Jan 29;15:1303776. doi: [10.3389/fimmu.2024.1303776](https://doi.org/10.3389/fimmu.2024.1303776). PMID: 38348032; PMCID: [PMC10859697](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10859697/).
 
- 1. [Modeling the roles of cohesotaxis, cell-intercalation, and tissue geometry in collective cell migration of Xenopus mesendoderm](https://journals.biologists.com/bio/article/13/8/bio060615/361690/Modeling-the-roles-of-cohesotaxis-cell). Comlekoglu T, Dzamba BJ, Pacheco GG, Shook DR, Sego TJ, Glazier JA, Peirce SM, !DeSimone DW. Biol Open. 2024 Aug 15;13(8):bio060615. doi: 10.1242/bio.060615. Epub 2024 Aug 19. PMID: [39162010](https://pubmed.ncbi.nlm.nih.gov/39162010/).
+ 1. [Modeling the roles of cohesotaxis, cell-intercalation, and tissue geometry in collective cell migration of Xenopus mesendoderm](https://journals.biologists.com/bio/article/13/8/bio060615/361690/Modeling-the-roles-of-cohesotaxis-cell). Comlekoglu T, Dzamba BJ, Pacheco GG, Shook DR, Sego TJ, Glazier JA, Peirce SM, DeSimone DW. Biol Open. 2024 Aug 15;13(8):bio060615. doi: 10.1242/bio.060615. Epub 2024 Aug 19. PMID: [39162010](https://pubmed.ncbi.nlm.nih.gov/39162010/).
 
  1. [Modelling cell shape in 3D structured environments: A quantitative comparison with experiments](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011412). Link R, Jaggy M, Bastmeyer M, Schwarz US. PLoS Comput Biol. 2024 Apr 4;20(4):e1011412. doi: [10.1371/journal.pcbi.1011412](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011412). PMID: 38574170; PMCID: [PMC11020930](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11020930/).
 
@@ -160,7 +165,7 @@ For list of Ph.D. and Master theses completed using CC3D please see [[Theses|her
 
  1. ["Exploring Ductal Carcinoma In-Situ to Invasive Ductal Carcinoma Transitions Using Energy Minimization Principles."](https://link.springer.com/chapter/10.1007/978-3-031-08751-6_27) Vivek M. Sheraton and Shijun Ma.  In: Groen, D., de Mulatier, C., Paszynski, M., Krzhizhanovskaya, V.V., Dongarra, J.J., Sloot, P.M.A. (eds) Computational Science – ICCS 2022. ICCS 2022. Lecture Notes in Computer Science, vol 13350. Springer, Cham. [https://doi.org/10.1007/978-3-031-08751-6_27](https://doi.org/10.1007/978-3-031-08751-6_27).
 
- 1. ["Mechanically primed cells transfer memory to fibrous matrices for persistent invasion."](https://www.biorxiv.org/content/10.1101/2022.05.02.490316v1.full) José Almeida, Jairaj Mathur, Ye Lim Lee, Bapi Sarker, Amit Pathak. !BioRxiv, Posted May 02, 2022. doi: [https://doi.org/10.1101/2022.05.02.490316](https://doi.org/10.1101/2022.05.02.490316).
+ 1. ["Mechanically primed cells transfer memory to fibrous matrices for persistent invasion."](https://www.biorxiv.org/content/10.1101/2022.05.02.490316v1.full) José Almeida, Jairaj Mathur, Ye Lim Lee, Bapi Sarker, Amit Pathak. BioRxiv, Posted May 02, 2022. doi: [https://doi.org/10.1101/2022.05.02.490316](https://doi.org/10.1101/2022.05.02.490316).
 
  1. ["The modeling study of the effect of morphological behaviors of extracellular matrix fibers on the dynamic interaction between tumor cells and antitumor immune response."](https://onlinelibrary.wiley.com/doi/10.1002/cnm.3633) Guanjie Jia, Hao Yang, Kaiqun Wang, Di Huang, Weiyi Chen, Yanhu Shan. International Journal for Numerical Methods in Biomedical Engineering. 2022: e3633. DOI: 10.1002/cnm.3633.
 
@@ -208,7 +213,7 @@ For list of Ph.D. and Master theses completed using CC3D please see [[Theses|her
 
  1. [Cluster Size Distribution of Cells Disseminating from a Primary Tumor](https://www.biorxiv.org/content/10.1101/2021.04.29.441921v2.full) - Mrinmoy Mukherjee, Herbert Levine. BioRxiv. doi: https://doi.org/10.1101/2021.04.29.441921 
 
- 1. [Supracellular organization confers directionality and mechanical potency to migrating pairs of cardiopharyngeal progenitor cells](https://www.biorxiv.org/content/10.1101/2021.02.09.430466v1.full) - Yelena Y. Bernadskaya, Haicen Yue, Calina Copos, Lionel Christiaen, Alex Mogilner. !BioRxiv. doi: https://doi.org/10.1101/2021.02.09.430466
+ 1. [Supracellular organization confers directionality and mechanical potency to migrating pairs of cardiopharyngeal progenitor cells](https://www.biorxiv.org/content/10.1101/2021.02.09.430466v1.full) - Yelena Y. Bernadskaya, Haicen Yue, Calina Copos, Lionel Christiaen, Alex Mogilner. BioRxiv. doi: https://doi.org/10.1101/2021.02.09.430466
 
  1. [A Cellular Potts energy-based approach to analyse the influence of the surface topography on single cell motility](https://www-sciencedirect-com.proxyiub.uits.iu.edu/science/article/pii/S0022519320303428) - Thenard T, Catapano A, Mesnard M, Allena R. J Theor Biol. 2021 Jan 21;509:110487. doi: 10.1016/j.jtbi.2020.110487. Epub 2020 Sep 16. PMID: 32949589.
 
@@ -218,7 +223,7 @@ For list of Ph.D. and Master theses completed using CC3D please see [[Theses|her
 
  1. [Heterogeneity in 2,6-Linked Sialic Acids Potentiates Invasion of Breast Cancer Epithelia](https://pubs.acs.org/doi/abs/10.1021/acscentsci.0c00601) - Pally D, Pramanik D, Hussain S, Verma S, Srinivas A, Kumar RV, Everest-Dass A, Bhat R. ACS Cent Sci. 2021 Jan 27;7(1):110-125. doi: 10.1021/acscentsci.0c00601. Epub 2021 Jan 4. PMID: 33532574; PMCID: PMC7844859.
 
- 1. [The environment topography alters the transition from single-cell populations to multicellular structures in Myxococcus xanthus](https://www.biorxiv.org/content/10.1101/2021.01.27.428527v1.full) - Karla C. Hernández Ramos, Edna Rodríguez-Sánchez, Juan Antonio Arias del Angel, Alejandro V. Arzola, Mariana Benítez, Ana E. Escalante, Alessio Franci, Giovanni Volpe, Natsuko Rivera-Yoshida. !BioRxiv. doi: https://doi.org/10.1101/2021.01.27.428527 
+ 1. [The environment topography alters the transition from single-cell populations to multicellular structures in Myxococcus xanthus](https://www.biorxiv.org/content/10.1101/2021.01.27.428527v1.full) - Karla C. Hernández Ramos, Edna Rodríguez-Sánchez, Juan Antonio Arias del Angel, Alejandro V. Arzola, Mariana Benítez, Ana E. Escalante, Alessio Franci, Giovanni Volpe, Natsuko Rivera-Yoshida. BioRxiv. doi: https://doi.org/10.1101/2021.01.27.428527 
 
  1. A useful review of methods, including CC3D: [Computational Models and Simulations of Cancer Metastasis](https://link.springer.com/article/10.1007/s11831-021-09554-1) - Anvari, S., Nambiar, S., Pang, J. et al. Arch Computat Methods Eng (2021). https://doi-org.proxyiub.uits.iu.edu/10.1007/s11831-021-09554-1.
 
@@ -230,7 +235,7 @@ For list of Ph.D. and Master theses completed using CC3D please see [[Theses|her
 
  1. [Physical Forces Influence the Self-organization of the Leader Cell Formation During Collective Cell Migration](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9451315) - M. Pan, Y. Yang and L. Liu. 2021 IEEE 16th International Conference on Nano/Micro Engineered and Molecular Systems (NEMS), 2021, pp. 1923-1926, doi: 10.1109/NEMS51815.2021.9451315.
 
- 1. [Multiscale modeling in disease](https://www-sciencedirect-com.proxyiub.uits.iu.edu/science/article/pii/S2452310021000251\) -  Ashlee N. !FordVersyp. Current Opinion in Systems Biology. In press. Available online 8 May 2021. https://doi.org/10.1016/j.coisb.2021.05.001.
+ 1. [Multiscale modeling in disease](https://www-sciencedirect-com.proxyiub.uits.iu.edu/science/article/pii/S2452310021000251\) -  Ashlee N. FordVersyp. Current Opinion in Systems Biology. In press. Available online 8 May 2021. https://doi.org/10.1016/j.coisb.2021.05.001.
 
  1. [Multiscale modeling of tumor growth and angiogenesis: Evaluation of tumor-targeted therapy](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009081) - Jafari Nivlouei S, Soltani M, Carvalho J, Travasso R, Salimpour MR, Shirani E. PLoS Comput Biol. 2021 Jun 23;17(6):e1009081. doi: 10.1371/journal.pcbi.1009081. PMID: 34161319.
 
@@ -269,7 +274,7 @@ For list of Ph.D. and Master theses completed using CC3D please see [[Theses|her
 
  1. ["Cellular-based Computational Model of hMSC Differentiation into Neuronal Lineage on Nanofibrous PCL- Graphene Scaffolds."](https://core.ac.uk/download/pdf/199459847.pdf) Pegi Haliti. Poster (2019).
 
- 1. ["Role of aggregate size, multistability and communication in determining cell fate and patterning in M. xanthus".](https://www.biorxiv.org/content/10.1101/627703v1) Juan A. Arias Del Angel, Natsuko Rivera-Yoshida, Ana E. Escalante, León Patricio Martínez-Castilla, Mariana Benítez. !BioRxiv Posted May 04, 2019. [doi: https://doi.org/10.1101/627703](https://doi.org/10.1101/627703).
+ 1. ["Role of aggregate size, multistability and communication in determining cell fate and patterning in M. xanthus".](https://www.biorxiv.org/content/10.1101/627703v1) Juan A. Arias Del Angel, Natsuko Rivera-Yoshida, Ana E. Escalante, León Patricio Martínez-Castilla, Mariana Benítez. BioRxiv Posted May 04, 2019. [doi: https://doi.org/10.1101/627703](https://doi.org/10.1101/627703).
 
  1. [A hybrid discrete–continuous model of metastatic cancer cell migration through a remodeling extracellular matrix](https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/aic.16671) - Edalgo Nguyen, Yen T., Anya L. Zornes, and Ashlee N. Ford Versypt, __AIChE Journal.__ DOI: 10.1002/aic.16671, (2019). 
 - [Metabolic reprogramming dynamics in tumor spheroids: Insights from a multicellular, multiscale model](https://journals.plos.org/ploscompbiol/article?rev=2&id=10.1371/journal.pcbi.1007053) - Mahua Roy and Stacey D. Finley, __PLoS Computational Biology.__ DOI: 10.1371/journal.pcbi.1007053S, (2019). 
