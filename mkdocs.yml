@@ -18,6 +18,7 @@ nav:
   - Tutorials: tutorials.md
   - Publications: publications.md
   - Releases:
+      - 4.9.0: releases/4.9.0.md
       - 4.8.0: releases/4.8.0.md
 
 plugins:
